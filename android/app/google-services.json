@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "401879810532",
+    "firebase_url": "https://reactnativetest-tienld235.firebaseio.com",
+    "project_id": "reactnativetest-tienld235",
+    "storage_bucket": "reactnativetest-tienld235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401879810532:android:dcd7cbd2582007d1",
+        "android_client_info": {
+          "package_name": "com.rnfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401879810532-2t8t5sq4s9v87bkp1c0in7rob0giu2is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvInUfpQyOs2EU9ebOgkZEkL8nkufx368"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401879810532-2t8t5sq4s9v87bkp1c0in7rob0giu2is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
